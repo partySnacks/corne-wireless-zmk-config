@@ -35,7 +35,7 @@
                         display-name = "Lower";
                         bindings = <
    &kp TAB   &kp RA(Q)     &kp LS(FSLH) &kp RA(N8)   &kp RA(N9)    &kp GRAVE          &kp LS(N1)    &kp NUBS   &kp LS(NUBS) &kp LS(N0)   &kp LS(N6)    &kp BSPC
-   &kp LCTRL &kp LS(MINUS) &kp SL(N7)   &kp RA(N7)   &kp RA(N0)    &kp LS(RBRC)       &kp LS(MINUS) &kp LS(N8) &kp LS(N9)   &kp FSLH     &kp LS(DOT)   &trans
+   &kp LCTRL &kp LS(MINUS) &kp LS(N7)   &kp RA(N7)   &kp RA(N0)    &kp LS(RBRC)       &kp LS(MINUS) &kp LS(N8) &kp LS(N9)   &kp FSLH     &kp LS(DOT)   &trans
    &trans    &kp NUHS      &kp LS(N4)   &kp RA(NUBS) &kp RA(RBRC)  &kp LS(EQUAL)      &kp RBRC      &kp LS(N5) &kp LS(N2)   &kp LS(NUHS) &kp LS(COMMA) &trans
                           	                &kp LGUI &kp COMMA &kp SPACE          &kp RET &kp DOT &kp RALT
                         >;

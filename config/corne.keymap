@@ -23,7 +23,7 @@
    &kp TAB   &kp X    &kp V    &kp L    &kp C &kp W         &kp K &kp H &kp G     &kp F &kp Q &kp BSPC
    &kp LCTRL &kp U    &kp I    &kp A    &kp E &kp O         &kp S &kp N &kp R     &kp T &kp D &kp SQT
    &kp LSHFT &kp LBRC &kp SCLN &kp QUOT &kp P &kp Y         &kp B &kp M &kp MINUS &kp Z &kp J &kp ESC
-              &mt RCTL ESC &mt LALT RET &lt 1 SPACE         &lt 2 SPACE &mo LSHIFT &mt LGUI TAB
+              &mt RCTL ESC &mt LALT RET &lt 1 SPACE         &lt 2 SPACE &kp LSHIFT &mt LGUI TAB
                         >;
                 };
                 lower_layer {

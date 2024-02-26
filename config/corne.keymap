@@ -22,7 +22,7 @@
                         bindings = <
    &kp TAB   &kp X    &kp V    &kp L    &kp C &kp W         &kp K &kp H &kp G     &kp F &kp Q &kp BSPC
    &kp LCTRL &kp U    &kp I    &kp A    &kp E &kp O         &kp S &kp N &kp R     &kp T &kp D &kp SQT
-   &kp LSHFT &kp LBRC &kp SCLN &kp QUOT &kp P &kp Y         &kp B &kp M &kp MINUS &kp Z &kp J &kp ESC
+   &kp LSHFT &kp LBKT &kp SCLN &kp QUOT &kp P &kp Y         &kp B &kp M &kp MINUS &kp Z &kp J &kp ESC
               &mt RCTL ESC &mt LALT RET &lt 1 SPACE         &lt 2 SPACE &kp LSHIFT &mt LGUI TAB
                         >;
                 };
@@ -35,7 +35,7 @@
                         display-name = "Lower";
                         bindings = <
    &kp TAB   &kp RA(Q)     &kp LS(FSLH) &kp RA(N8)   &kp RA(N9)    &kp GRAVE          &kp LS(N1)    &kp NUBS   &kp LS(NUBS) &kp LS(N0)   &kp LS(N6)    &kp BSPC
-   &kp LCTRL &kp LS(MINUS) &kp LS(N7)   &kp RA(N7)   &kp RA(N0)    &kp LS(RBRC)       &kp LS(MINUS) &kp LS(N8) &kp LS(N9)   &kp FSLH     &kp LS(DOT)   &trans
+   &kp LCTRL &kp LS(MINUS) &kp LS(N7)   &kp RA(N7)   &kp RA(N0)    &kp LS(RBKT)       &kp LS(MINUS) &kp LS(N8) &kp LS(N9)   &kp FSLH     &kp LS(DOT)   &trans
    &trans    &kp NUHS      &kp LS(N4)   &kp RA(NUBS) &kp RA(RBRC)  &kp LS(EQUAL)      &kp RBRC      &kp LS(N5) &kp LS(N2)   &kp LS(NUHS) &kp LS(COMMA) &trans
                           	                &kp LGUI &kp COMMA &kp SPACE          &kp RET &kp DOT &kp RALT
                         >;
